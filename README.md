@@ -7,5 +7,5 @@ python, numpy, pandas, Scikit-learn, scipy, A/B testing, XGBoost, CatBoost, Ligh
 ## Portfolio 🎯
 - This is my portfolio where you can find the most relevant projects [Portfolio link](https://github.com/BGSs2019/Portfolio)
 ## Connect with me ✉
-- [hh.ru](https://hh.ru/resume/f6c305cdff0e24cce90039ed1f75665345484c)
 - [Telegram](https://t.me/gb98q)
+- [hh.ru](https://hh.ru/resume/f6c305cdff0e24cce90039ed1f75665345484c)
